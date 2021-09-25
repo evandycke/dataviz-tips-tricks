@@ -1,4 +1,6 @@
-Some critera to evaluate dataviz solutions :
+# Some critera to evaluate dataviz solutions
+
+Here are some criteria for comparing data visualization solutions with each other :
 1. Preparing and transforming data
 2. Interface and handling
 3. Connectors
