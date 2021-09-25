@@ -9,6 +9,7 @@ Some Tips and Tricks about Dataviz.
 ## Useful documents
 
 * [Before starting a dashboard project](./docs/Before-starting-a-dashboard-project.md) - Some questions to ask yourself before starting a dashboard project
+* [Dashboard best practices](./docs/Dashboard-best-practices.md) - Some good practices concerning dashboards 
 * [Comparison criteria for dataviz solutions](./docs/Comparison-criteria-for-dataviz-solutions.md)
 
 ## Useful resources
