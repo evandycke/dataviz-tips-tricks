@@ -12,6 +12,7 @@ Some Tips and Tricks about Dataviz.
 * [Dashboard best practices](./docs/Dashboard-best-practices.md) - Some good practices concerning dashboards
 * [Characteristics of KPIs](./docs/Characteristics-of-KPIs.md) - Some characteristics of KPIs
 * [Comparison criteria for dataviz solutions](./docs/Comparison-criteria-for-dataviz-solutions.md) - Want to compare Dataviz solutions ?
+* [Data pre-audit](./docs/Data-preaudit.md) - Some questions to pre-audit the data
 
 ## Useful resources
 
