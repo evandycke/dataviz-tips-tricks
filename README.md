@@ -18,20 +18,10 @@ Some Tips and Tricks about Dataviz.
 
 ![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
 
-## Useful links
-
-* [Kibana best practices](https://www.elastic.co/guide/en/kibana/master/development-best-practices.html) - Best practices from Elastic
-
 ## Tomorrow I will learn
 
 * [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
 * [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
-
-### Kibana
-
-* [Best Practices for Using Kibana for Data Visualization](https://dzone.com/articles/best-practices-for-using-kibana-for-data-visualiza#:~:text=The%20Best%20Practices%20for%20Using%20Kibana%20for%20Data,of%20data%20in%20question.%20...%20Plus%20d%27articles...%20)
-* [Tips, Considerations, & Best Practices](https://elire.com/2020/12/kibana-tips-considerations-best-practices/)
-* [Creating the Perfect Kibana Dashboard](https://logz.io/blog/perfect-kibana-dashboard/)
 
 ## Build with
 
