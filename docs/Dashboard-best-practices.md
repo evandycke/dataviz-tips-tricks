@@ -117,3 +117,31 @@ Multi-dimensions with one or more measurements :
  
 No repetition of the same values (grouped) 
 No end-user sort by double-click
+
+### Usability & Design Pointers 
+
+#### Sheets 
+
+* Max Sheets – Keep the number of sheets/tabs to a minimum (e.g.10) 
+* Always include a Help / Get Started tab and/or a link to a help site on our website
+* Name each sheet and object with descriptive headers 
+
+#### Colours 
+
+* Black & White charts viewing & Printing (Colour Blindness) 
+* Red & Green - Many people are red/green colour-blind - consider this e.g. when using visual cues 
+* Red and green are also associated with good and bad indicators / performance. Only use red and green when you mean to indicate good and bad
+* Colouring is very individual so we recommend neutral colours (e.g. white background) but if you can match the design of an application to the look and feel of a customer that is sometimes good (always include the logo somewhere, perhaps on an intro sheet instead of having it on all sheets – steals too much real estate)
+
+#### Layout 
+
+* Design for a fixed resolution that applies to your organisations desktops (e.g. 1024 x 768)
+* Always consider sort order and whether to present frequency (# or %) in list boxes (sometimes very useful but definitely not always) 
+* Repeated objects (clear buttons) at the same position in every sheet 
+* Multi boxes can be good for people that are used to working with QV but they are not very intuitive. List boxes take more space but are better (you can e.g. see the 
+gray areas better). 
+* Clean layout in charts 
+* Hierarchy dimensions placed in order 
+* Time and Dates are crucial elements of most apps and they must be highly intuitive to search and use (do we always need to display quarter / tertial when 
+users can select the interesting months in the list box? When and in what graphs does it make sense to display Period / YearMonth instead of Month ?) 
+* Table columns should always be searchable (display totals in tables whenever it makes sense)
