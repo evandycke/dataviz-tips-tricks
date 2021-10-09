@@ -33,3 +33,115 @@ A lot of times a dashboard will have multiple levels of permissions, but who is 
 ## Measure usage and improve your dashboard
 
 When launching a data visualization project, the analysis part must remain the priority, even when the project is already launched. There must indeed be feedback on the use of the tool (regardless of its use: communication, marketing, statistical analysis, business analysis, etc.) in order to always be able to improve it. Maintenance and measurement of usage will help develop the dashboard thanks to customer feedback. A dashboard must remain a fluid tool despite the amount of information present on the interface. For example, this analysis phase should make it possible to account for the page load times, which must be as low as possible for an optimal user experience.
+
+## Aesthetics 
+
+### What are bad aesthetics? 
+
+* Cluttered 
+* Too many colours in one 
+* Dark colours 
+* Inconsistent object placement 
+* Wrong choice in object type 
+* Objects placed on top of each other 
+* Objects placed off the screen 
+
+### What are good aesthetics? 
+
+* Uncluttered 
+* Crisp 
+* Aligned 
+* Light colour choices 
+* Consistency with object placement in a sheet 
+
+### Using the right charts
+
+#### When to use a bar chart ?
+
+Comparisons for similar measurements :
+* Actual vs. Budget - money to money, qty to qty 
+* Amount over time - time to time 
+* Top N - category values (e.g. sales reps) 
+
+#### When to use a line charts  ?
+
+Measurement to follow its movements or comparisons among items :
+* Performance Trends - Amount movements over time 
+* Compare 2 dimensions - Annual Comparisons over months 
+
+#### When to use a combo chart ?
+
+Comparisons for multi-measurements :
+* Two measures - Currency amount and quantity - Amount and percentage 
+* Two axis - Left-axis and right axis for measurements 
+* Two or more axis - Split axis horizontally 
+
+#### When to use a radar chart ?
+
+Comparisons of high level groups (avoid a dimension with many values) :
+* One or Two measurements - Sales and Profit 
+ 
+#### When to use a gauge charts  ?
+
+Ratio of measurements (avoid actual amounts) :
+* Percentages - Margin, Quota Achieved, YTD vs. Last YTD 
+  
+#### When to use a scatter chart ? 
+
+Measurements act as dimensions (3D chart) :
+* 3D measurement chart - Amounts, quantity and # of customers 
+* Map chart - Sales on geographical map 
+
+#### When to use a grid chart ?
+
+2 or 3 dimensions with a measurement :
+* Multi-cross dim measures - Amount over region and product over time 
+
+#### When to use a pie chart ?
+
+Visual distribution measurements :
+* What contributes how to the whole - Regional Sales 
+* Yes / No analysis 
+
+#### When to use a block chart ?
+
+One dimension with multiple measurements :
+* KPI Overview - Cycle group dimension with Sales, Qty, Margin 
+* Sort in any columns (No grouping) 
+
+#### When to use a pivot table ?
+
+Multi-dimensions with one or more measurements :
+* Grouping of dimensions - Product sales by item 
+* Dimension across table - Annual sales by months - Variance calculation using before
+ 
+No repetition of the same values (grouped) 
+No end-user sort by double-click
+
+### Usability & Design Pointers 
+
+#### Sheets 
+
+* Max Sheets – Keep the number of sheets/tabs to a minimum (e.g.10) 
+* Always include a Help / Get Started tab and/or a link to a help site on our website
+* Name each sheet and object with descriptive headers 
+
+#### Colours 
+
+* Black & White charts viewing & Printing (Colour Blindness) 
+* Red & Green - Many people are red/green colour-blind - consider this e.g. when using visual cues 
+* Red and green are also associated with good and bad indicators / performance. Only use red and green when you mean to indicate good and bad
+* Colouring is very individual so we recommend neutral colours (e.g. white background) but if you can match the design of an application to the look and feel of a customer that is sometimes good (always include the logo somewhere, perhaps on an intro sheet instead of having it on all sheets – steals too much real estate)
+
+#### Layout 
+
+* Design for a fixed resolution that applies to your organisations desktops (e.g. 1024 x 768)
+* Always consider sort order and whether to present frequency (# or %) in list boxes (sometimes very useful but definitely not always) 
+* Repeated objects (clear buttons) at the same position in every sheet 
+* Multi boxes can be good for people that are used to working with QV but they are not very intuitive. List boxes take more space but are better (you can e.g. see the 
+gray areas better). 
+* Clean layout in charts 
+* Hierarchy dimensions placed in order 
+* Time and Dates are crucial elements of most apps and they must be highly intuitive to search and use (do we always need to display quarter / tertial when 
+users can select the interesting months in the list box? When and in what graphs does it make sense to display Period / YearMonth instead of Month ?) 
+* Table columns should always be searchable (display totals in tables whenever it makes sense)
