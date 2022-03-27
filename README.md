@@ -22,6 +22,7 @@ Some Tips and Tricks about Dataviz.
 
 * [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
 * [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
+* [Rockset](https://rockset.com/) - Real-Time Analytics
 
 ## Build with
 
